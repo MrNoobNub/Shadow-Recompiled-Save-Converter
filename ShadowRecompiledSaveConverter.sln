@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37516.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ShadowRecompiledSaveConverter", "ShadowRecompiledSaveConverter.pyproj", "{19BA6F30-E3D0-4F67-AC23-BF10C89624B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19BA6F30-E3D0-4F67-AC23-BF10C89624B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19BA6F30-E3D0-4F67-AC23-BF10C89624B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19D935A8-9B38-45EC-B91B-8A9517B0E6C5}
+	EndGlobalSection
+EndGlobal
